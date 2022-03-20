@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateekjain98
+- 👋 Hi, I’m Prateek Jain
 - 👀 I’m interested in building products from design to deployment
 - 🌱 I’m currently working on MERN Stack
 - 📫 How to reach me prateek@evolvfit.in / prateek9jain8@gmail.com
