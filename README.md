@@ -1,5 +1,5 @@
 - 👀 I’m interested in building products from design to deployment
-- 🌱 I’m currently working on MERN Stack
+- 🌱 I’m currently working on Next with Typescript and Vercel based technologies
 - 📫 How to reach me - prateek9jain8@gmail.com
 
 <div align="center">
