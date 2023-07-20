@@ -2,7 +2,7 @@
 - 🔎 Focusing on Next with Typescript 
 - 📃 Fluent in Python, React, React Native 
 - 📈 Learning Vercel based technologies & Software Integrations in Web applications 
-- 📌 Portfolio -> https://prateekjain.io
+- 📌 Portfolio -> prateekjain.io
 - 📨 Let's discuss the next billion $ idea? -> prateek9jain8@gmail.com 
 
 <div align="center">
