@@ -1,9 +1,9 @@
-✨ Building products from design to deployment 
-🔎 Focusing on Next with Typescript 
-📃 Fluent in Python, React, React Native 
-📈 Learning Vercel based technologies & Software Integrations in Web applications 
-📌 Portfolio -> www.prateekjain.io
-📨 Let's discuss the next billion $ idea? -> prateek9jain8@gmail.com 
+✨ Building products from design to deployment \\
+🔎 Focusing on Next with Typescript \\
+📃 Fluent in Python, React, React Native \\
+📈 Learning Vercel based technologies & Software Integrations in Web applications \\
+📌 Portfolio -> www.prateekjain.io \\
+📨 Let's discuss the next billion $ idea? -> prateek9jain8@gmail.com \\
 
 <div align="center">
 	<img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
