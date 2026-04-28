@@ -52,10 +52,6 @@
 - 📊 **Account scoring pipeline** on `Inngest` + `Redis` — 100k+ accounts processed
 - 📖 **Shareable Stories SaaS** supporting 20+ media types, scaled to 50k+ stories
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/prateekjain98)
-
 ## What I'm Doing
 
 - **Production-grade intelligence, not demos** — autonomous agents that have to earn their capital before they earn their compute
