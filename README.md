@@ -1,31 +1,96 @@
-✨ Building products from design to deployment <br><br>
-🔎 Focusing on Next with Typescript <br><br>
-📃 Fluent in Python, React, React Native <br><br>
-📈 Learning Vercel based technologies & Software Integrations in Web applications <br><br>
-📌 Portfolio -> www.prateekjain.io <br><br>
-📨 Let's discuss the next billion $ idea? -> contact@prateekjain.io <br><br>
+# Hi, I'm Prateek 👋
 
-<div align="center">
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
-	<img height="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-</div>
+📍 **Gurugram, India** | 🌉 **Founding AI Engineer @[SalesMonk AI](https://salesmonk.ai)** | 🦾 **ex-CTO @Evolv Fit**
 
-<!---
-prateekjain98/prateekjain98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Temporal](https://img.shields.io/badge/-Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logoColor=white)
+![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vapi](https://img.shields.io/badge/-Vapi-5A67D8?style=flat-square&logoColor=white)
+
+> The bridge between AI and human. I translate raw model capability into production systems people actually use — autonomous agents, durable workflows, 100k+ actions a month. Built by someone who reads the model cards before the marketing pages.
+
+🌐 **[prateekjain.io](https://prateekjain.io)** — interactive portfolio with the live story.
+
+## Current Projects
+
+### 🤖 AI & Agents
+
+- 🦾 **[kaizen-trader](https://github.com/prateekjain98/kaizen-trader)** — Autonomous crypto trader that improves itself after every trade. 11 free data streams, 14 strategies, 4 self-healing loops, Claude-in-the-loop on Binance Futures + OKX
+- ⚔️ **[ronin](https://github.com/prateekjain98/ronin)** — AI-powered Indian stock market trader. BSE filings polled at 1–2s, Haiku for triage / Sonnet for overnight, executes on Zerodha across equity, F&O, futures, MCX. Live on GCP
+- 🦞 **[social-media-manager-skills](https://github.com/prateekjain98/social-media-manager-skills)** — 29 Claude Skills for end-to-end social media: content, platform strategy, automation
+- 🐦 **[chirp-ai](https://github.com/prateekjain98/chirp-ai)** — AI agent that runs a Twitter account end-to-end
+- 📈 **[stock-minds](https://github.com/prateekjain98/stock-minds)** — Modular AI-powered stock news chatbots
+- 💼 **[stella-ai](https://github.com/prateekjain98/stella-ai)** — AI sales agent
+
+### 🌐 SaaS & Web
+
+- 🏢 **[accelio](https://github.com/prateekjain98/accelio)** — Multi-tenant platform for agencies to build websites and manage clients
+- 💬 **[pern-stack-messenger](https://github.com/prateekjain98/pern-stack-messenger)** — Real-time messaging on React + Express + Socket.IO + PostgreSQL + Redis
+- 📋 **[django-crm](https://github.com/prateekjain98/django-crm)** — CRM on Django + Python + Tailwind
+- 🧬 **[schema](https://github.com/prateekjain98/schema)** — Schema utilities
+
+### 🚢 Live Production Sites
+
+- 🪨 **[greymetre.io](https://greymetre.io)**
+- 🌾 **[fieldkonnect.io](https://fieldkonnect.io)**
+- ⚙️ **[exprosoftech.com](https://exprosoftech.com)**
+
+### 🔒 Closed Source @ SalesMonk AI
+
+- 🧠 **Memory & intelligence layer** — `mem0` + `Firecrawl` + `LlamaIndex` + `Qdrant`
+- ⚙️ **Durable workflow engine** on `Temporal.io` — 100k+ multi-channel actions/month
+- 🔬 **Research agent** on `LangGraph` + `Vercel AI SDK` + `Parallel.ai`, evaluated continuously via `Braintrust`
+- 📞 **Multi-tenant outbound voice agents** on `Vapi` with a glassmorphic widget
+- 💬 **Real-time chat widget** managing 2M+ visitors/day, +50% meetings booked
+- 🔍 **RAG + Slack chat system** — first-response from minutes to seconds
+- 📊 **Account scoring pipeline** on `Inngest` + `Redis` — 100k+ accounts processed
+- 📖 **Shareable Stories SaaS** supporting 20+ media types, scaled to 50k+ stories
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/prateekjain98)
+
+## What I'm Doing
+
+- **Production-grade intelligence, not demos** — autonomous agents that have to earn their capital before they earn their compute
+- **Self-healing systems** — trading bots that analyze their own logs and rewrite their own strategies
+- **Context engineering** — the kind of AI work that requires deep understanding of model capability, not just API calls
+- **Building in public** at [prateekjain.io](https://prateekjain.io)
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/-prateekjain.io-7AA4E8?style=flat-square&logo=vercel&logoColor=white)](https://prateekjain.io)
+[![Email](https://img.shields.io/badge/-contact@prateekjain.io-D97757?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@prateekjain.io)
+[![LinkedIn](https://img.shields.io/badge/-Prateek_Jain-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekjain98)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prateekjain98)
+
+---
+
+### Background
+
+- 🌉 **Founding AI Engineer @ [SalesMonk AI](https://salesmonk.ai)** — Jan 2023 → present
+- 🏋️ **Co-Founder & CTO @ Evolv Fit** — MERN + React Native + TensorFlow pose estimation, 1k+ MAU
+- 💹 **Software Engineer @ NAV Fund Administration** — integrated 10+ crypto exchanges, OLAP analytics for 90+ hedge funds
+- 🥡 **Business Analyst Intern @ Swiggy** — overseas expansion launch model
+- 🎓 **B.E., BITS Pilani** · GPA 8.14 · led 35-person team that built India's first 100% ethanol-fueled car
+
+### Philosophy
+
+> "Production-grade intelligence, not demos." I build the bridge between raw model capability and the systems people actually use. Self-healing trading bots, voice agents, RAG systems, durable memory layers — the kind of AI work that needs to survive Monday morning, not just Friday's demo.
+
+<details>
+<summary>Random Facts</summary>
+
+- I read model cards before marketing pages
+- Three of my systems trade real money in production
+- My portfolio site is itself an interactive AI demo (interactive Spline robot, animated brain visualization, particle weave canvas)
+- BITS Pilani made me a builder; SalesMonk made me a shipper
+- Coffee, BSE filings, and Claude on a 60-second loop
+
+</details>
