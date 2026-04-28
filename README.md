@@ -24,18 +24,9 @@
 - 🦾 **[kaizen-trader](https://github.com/prateekjain98/kaizen-trader)** — Autonomous crypto trader that improves itself after every trade. 11 free data streams, 14 strategies, 4 self-healing loops, Claude-in-the-loop on Binance Futures + OKX
 - ⚔️ **[ronin](https://github.com/prateekjain98/ronin)** — AI-powered Indian stock market trader. BSE filings polled at 1–2s, Haiku for triage / Sonnet for overnight, executes on Zerodha across equity, F&O, futures, MCX. Live on GCP
 - 🦞 **[social-media-manager-skills](https://github.com/prateekjain98/social-media-manager-skills)** — 29 Claude Skills for end-to-end social media: content, platform strategy, automation
-- 🐦 **[chirp-ai](https://github.com/prateekjain98/chirp-ai)** — AI agent that runs a Twitter account end-to-end
-- 📈 **[stock-minds](https://github.com/prateekjain98/stock-minds)** — Modular AI-powered stock news chatbots
-- 💼 **[stella-ai](https://github.com/prateekjain98/stella-ai)** — AI sales agent
 
-### 🌐 SaaS & Web
 
-- 🏢 **[accelio](https://github.com/prateekjain98/accelio)** — Multi-tenant platform for agencies to build websites and manage clients
-- 💬 **[pern-stack-messenger](https://github.com/prateekjain98/pern-stack-messenger)** — Real-time messaging on React + Express + Socket.IO + PostgreSQL + Redis
-- 📋 **[django-crm](https://github.com/prateekjain98/django-crm)** — CRM on Django + Python + Tailwind
-- 🧬 **[schema](https://github.com/prateekjain98/schema)** — Schema utilities
-
-### 🚢 Live Production Sites
+### 🚢 Marketing Sites Built using Astro + Sanity
 
 - 🪨 **[greymetre.io](https://greymetre.io)**
 - 🌾 **[fieldkonnect.io](https://fieldkonnect.io)**
