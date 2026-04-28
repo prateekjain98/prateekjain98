@@ -65,7 +65,7 @@
 - 🏋️ **Co-Founder & CTO @ Evolv Fit** — MERN + React Native + TensorFlow pose estimation, 1k+ MAU
 - 💹 **Software Engineer @ NAV Fund Administration** — integrated 10+ crypto exchanges, OLAP analytics for 90+ hedge funds
 - 🥡 **Business Analyst Intern @ Swiggy** — overseas expansion launch model
-- 🎓 **B.E., BITS Pilani** · GPA 8.14 · led 35-person team that built India's first 100% ethanol-fueled car
+- 🎓 **B.E., BITS Pilani** · led 35-person team that built India's first 100% ethanol-fueled car
 
 ### Philosophy
 
